@@ -112,15 +112,11 @@ rss:
       name: "抖音武汉交警"
       url: "http://2f8bce76.r8.cpolar.cn/douyin/user/MS4wLjABAAAAmPmTcWkg-vjW2FB2pYrM_8hS1jijHzSIshlm7dwTV1o"
 
-      
-      - id: "wuhan-gov-news"
-      name: "武汉市政府要闻"
-      url: "http://2f8bce76.r8.cpolar.cn/gov/wuhan/sy/whyw"
-    
+          
     - id: "dywhwb"
       name: "抖音武汉晚报"
       url: "http://2f8bce76.r8.cpolar.cn/douyin/user/MS4wLjABAAAA-ypPk7oMn-a3JxxRgOQuku6w2GsaTrPBkBZSu2E8IQQ"     
-
+     
 
 
     # 自定义源示例
