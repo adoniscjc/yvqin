@@ -96,9 +96,7 @@ rss:
       name: "平安武汉"
       url: "http://2f8bce76.r8.cpolar.cn/weibo/user/2418542712"
          
-    - id: "weiboguanjianci"
-      name: "微博关键词"
-      url: "http://2f8bce76.r8.cpolar.cn/weibo/keyword/%E6%AD%A6%E6%B1%89"
+
       
     - id: "weibochaohua"
       name: "微博超话"
