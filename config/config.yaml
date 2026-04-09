@@ -107,7 +107,15 @@ rss:
     - id: "baidu-wuhan-news"
       name: "百度武汉新闻"
       url: "http://2f8bce76.r8.cpolar.cn/baidu/search/news?keyword=武汉"
+      
+    - id: "wuhanjj"
+      name: "抖音武汉交警"
+      url: "http://2f8bce76.r8.cpolar.cn/douyin/user/MS4wLjABAAAAmPmTcWkg-vjW2FB2pYrM_8hS1jijHzSIshlm7dwTV1o"
      
+      - id: "douban-group-wuhan"
+      name: "豆瓣武汉小组"
+      url: "http://2f8bce76.r8.cpolar.cn/douban/group/wuhan"
+
 
 
     # 自定义源示例
