@@ -100,6 +100,14 @@ rss:
       name: "微博关键词"
       url: "http://2f8bce76.r8.cpolar.cn/weibo/keyword/%E6%AD%A6%E6%B1%89"
       
+    - id: "weibochaohua"
+      name: "微博超话"
+      url: "http://2f8bce76.r8.cpolar.cn/weibo/super_index/100808ad9efa2f14d42f7d14ef876725909e27/sort_time"
+    
+    - id: "baidu-wuhan-news"
+      name: "百度武汉新闻"
+      url: "http://2f8bce76.r8.cpolar.cn/baidu/search/news?keyword=武汉"
+     
 
 
     # 自定义源示例
