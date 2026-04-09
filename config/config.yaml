@@ -95,7 +95,34 @@ rss:
     - id: "whu-news"
       name: "平安武汉"
       url: "http://2f8bce76.r8.cpolar.cn/weibo/user/2418542712"
-   
+         
+    - id: "weiboguanjianci"
+      name: "微博关键词"
+      url: "http://2f8bce76.r8.cpolar.cn/weibo/keyword/%E6%AD%A6%E6%B1%89"
+      
+    - id: "weibochaohua"
+      name: "微博超话"
+      url: "http://2f8bce76.r8.cpolar.cn/weibo/super_index/100808ad9efa2f14d42f7d14ef876725909e27/sort_time"
+    
+    - id: "baidu-wuhan-news"
+      name: "百度武汉新闻"
+      url: "http://2f8bce76.r8.cpolar.cn/baidu/search/news?keyword=武汉"
+     
+    - id: "wuhanjj"
+      name: "抖音武汉交警"
+      url: "http://2f8bce76.r8.cpolar.cn/douyin/user/MS4wLjABAAAAmPmTcWkg-vjW2FB2pYrM_8hS1jijHzSIshlm7dwTV1o"
+     
+      - id: "douban-group-wuhan"
+      name: "豆瓣武汉小组"
+      url: "http://2f8bce76.r8.cpolar.cn/douban/group/wuhan"
+
+      - id: "wuhan-gov-news"
+      name: "武汉市政府要闻"
+      url: "http://2f8bce76.r8.cpolar.cn/gov/wuhan/sy/whyw"
+    
+    - id: "dywhwb"
+      name: "抖音武汉晚报"
+      url: "http://2f8bce76.r8.cpolar.cn/douyin/user/MS4wLjABAAAA-ypPk7oMn-a3JxxRgOQuku6w2GsaTrPBkBZSu2E8IQQ"
 
     # 自定义源示例
     # - id: "custom-feed"
