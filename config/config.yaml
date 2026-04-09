@@ -121,9 +121,6 @@ rss:
       name: "豆瓣武汉小组"
       url: "http://2f8bce76.r8.cpolar.cn/douban/group/wuhan"
       
-      - id: "wuhan-gov-news"
-      name: "武汉市政府要闻"
-      url: "http://2f8bce76.r8.cpolar.cn/gov/wuhan/sy/whyw"
 
 
 
