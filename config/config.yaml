@@ -94,27 +94,47 @@ rss:
   feeds:
     - id: "whu-news"
       name: "平安武汉"
-      url: "https://4342a539.r39.cpolar.top/weibo/user/2418542712"
+      url: "http://4be8a415.r39.cpolar.top/weibo/user/2418542712"
          
     - id: "weiboguanjianci"
       name: "微博关键词"
-      url: "https://4342a539.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89"
+      url: "http://4be8a415.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89"
       
     - id: "weibochaohua"
       name: "微博超话"
-      url: "https://4342a539.r39.cpolar.top/weibo/super_index/100808ad9efa2f14d42f7d14ef876725909e27/sort_time"
+      url: "http://4be8a415.r39.cpolar.top/weibo/super_index/100808ad9efa2f14d42f7d14ef876725909e27/sort_time"
     
     - id: "baidu-wuhan-news"
       name: "百度武汉新闻"
-      url: "https://4342a539.r39.cpolar.top/baidu/search/news?keyword=武汉"
+      url: "http://4be8a415.r39.cpolar.top/baidu/search/news?keyword=武汉"
       
-    - id: "wuhanjj"
-      name: "抖音武汉交警"
-      url: "https://4342a539.r39.cpolar.top/douyin/user/MS4wLjABAAAAmPmTcWkg-vjW2FB2pYrM_8hS1jijHzSIshlm7dwTV1o"
+  #   - id: "wuhanjj"
+    #    name: "抖音武汉交警"
+    #    url: "http://4be8a415.r39.cpolar.top/douyin/user/MS4wLjABAAAAmPmTcWkg-vjW2FB2pYrM_8hS1jijHzSIshlm7dwTV1o"
           
-    - id: "dywhwb"
-      name: "抖音武汉晚报"
-      url: "https://4342a539.r39.cpolar.top/douyin/user/MS4wLjABAAAA-ypPk7oMn-a3JxxRgOQuku6w2GsaTrPBkBZSu2E8IQQ"     
+    #  - id: "dywhwb"
+      #  name: "抖音武汉晚报"
+      #  url: "http://4be8a415.r39.cpolar.top/douyin/user/MS4wLjABAAAA-ypPk7oMn-a3JxxRgOQuku6w2GsaTrPBkBZSu2E8IQQ" 
+
+    - id: "whu-weibo"
+      name: "武汉大学微博"
+      url: "http://4be8a415.r39.cpolar.top/weibo/user/1666177401"
+      
+    - id: "wh-case-keyword"
+      name: "武汉案件关键词"
+      url: "http://4be8a415.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89%E6%A1%88%E4%BB%B6"
+      
+    - id: "zhihu-daily-collection"
+      name: "知乎日报（合集）"
+      url: "http://4be8a415.r39.cpolar.top/zhihu/daily/section/2"
+      
+    - id: "zhihu-daily"
+      name: "知乎日报"
+      url: "http://4be8a415.r39.cpolar.top/zhihu/daily"
+      
+    - id: "wh-police-keyword"
+      name: "武汉警关键词"
+      url: "http://4be8a415.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89%E8%AD%A6"
      
     # 自定义源示例
     # - id: "custom-feed"
