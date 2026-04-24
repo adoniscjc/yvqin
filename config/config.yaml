@@ -135,6 +135,22 @@ rss:
     - id: "wh-police-keyword"
       name: "武汉警关键词"
       url: "http://4be8a415.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89%E8%AD%A6"
+
+    - id: "weibo-hot-search"
+      name: "微博热搜榜"
+      url: "http://4be8a415.r39.cpolar.top/weibo/search/hot"
+
+    - id: "qq-fact-check"
+      name: "腾讯谣言查证平台"
+      url: "http://4be8a415.r39.cpolar.top/qq/fact"
+
+    - id: "bilibili-wh-case"
+      name: "bilibili关键词（武汉案件）"
+      url: "http://4be8a415.r39.cpolar.top/bilibili/vsearch/%E6%AD%A6%E6%B1%89%E6%A1%88%E4%BB%B6"
+
+    - id: "weibo-wh-dead"
+      name: "微博关键词（武汉死）"
+      url: "http://4be8a415.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89%E6%AD%BB"
      
     # 自定义源示例
     # - id: "custom-feed"
