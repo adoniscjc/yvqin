@@ -134,7 +134,7 @@ rss:
 
     - id: "wh-police-keyword"
       name: "武汉警关键词"
-      url: "http://f08966d.r39.cpolar.top/weibo/keyword/%E6%AD%A6%E6%B1%89%E8%AD%A6"
+      url: "http://frp-cup.com:34842/weibo/keyword/%E6%AD%A6%E6%B1%89%E8%AD%A6"
 
     - id: "weibo-hot-search"
       name: "微博热搜榜"
