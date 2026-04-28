@@ -146,7 +146,7 @@ rss:
 
     - id: "bilibili-wh-case"
       name: "bilibili关键词（武汉案件）"
-      url: "https://frp-fun.com:54730/bilibili/vsearch/%E6%AD%A6%E6%B1%89%E6%A1%88%E4%BB%B6"
+      url: "http://f08966d.r39.cpolar.top/vsearch/%E6%AD%A6%E6%B1%89%E6%A1%88%E4%BB%B6"
 
     - id: "weibo-wh-dead"
       name: "微博关键词（武汉死）"
