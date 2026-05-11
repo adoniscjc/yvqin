@@ -92,9 +92,9 @@ rss:
   # - 正整数：覆盖全局设置，只推送此天数内的文章
   # - 0：禁用此频道的新鲜度过滤，推送所有文章
   feeds:
-    - id: "whu-news"
-      name: "平安武汉"
-      url: "https://7f8f5227.r27.cpolar.top/weibo/user/2418542712"
+    #- id: "whu-news"
+    #  name: "平安武汉"
+    #  url: "https://7f8f5227.r27.cpolar.top/weibo/user/2418542712"
 
     - id: "weiboguanjianci"
       name: "微博关键词"
